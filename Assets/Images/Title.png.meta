@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 427429e854d475c4c940759a04a576c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2202849738775366960
+    second: Mystery of Nothing_0
+  - first:
+      213: -1848899978543168332
+    second: Mystery of Nothing_1
+  - first:
+      213: 4468924607755408364
+    second: Mystery of Nothing_2
+  - first:
+      213: -5172129693164649553
+    second: Mystery of Nothing_3
+  - first:
+      213: -1520799422429888122
+    second: Mystery of Nothing_4
+  - first:
+      213: 8685399796747034429
+    second: Mystery of Nothing_5
+  - first:
+      213: -4573342769658927620
+    second: Mystery of Nothing_6
+  - first:
+      213: -3351284254656442916
+    second: Mystery of Nothing_7
+  - first:
+      213: -1562367140302633389
+    second: Mystery of Nothing_8
+  - first:
+      213: 1316521177640826221
+    second: Mystery of Nothing_9
+  - first:
+      213: -5292324174980907073
+    second: Mystery of Nothing_10
+  - first:
+      213: -8960958849502095355
+    second: Mystery of Nothing_11
+  - first:
+      213: -8521208087047503864
+    second: Mystery of Nothing_12
+  - first:
+      213: -518301991335701876
+    second: Mystery of Nothing_13
+  - first:
+      213: 4949295152337832890
+    second: Mystery of Nothing_14
+  - first:
+      213: -7441193535445083662
+    second: Mystery of Nothing_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mystery of Nothing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 147
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d844d8a28129e10800000000000000
+      internalID: 2202849738775366960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 293
+        width: 79
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405b1f3436756e0800000000000000
+      internalID: -1848899978543168332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 329
+        width: 169
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3534dd04fc40e30800000000000000
+      internalID: 4468924607755408364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 329
+        width: 91
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3cbaa7277e838b0800000000000000
+      internalID: -5172129693164649553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 346
+        width: 85
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681827b9bf805eae0800000000000000
+      internalID: -1520799422429888122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 293
+        width: 78
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f5b51191db88870800000000000000
+      internalID: 8685399796747034429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 361
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e06a4bf83880c0800000000000000
+      internalID: -4573342769658927620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 325
+        width: 88
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc7dbe9b8dd71d0800000000000000
+      internalID: -3351284254656442916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 118
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356c4891d5b515ae0800000000000000
+      internalID: -1562367140302633389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 74
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d657f8c2909354210800000000000000
+      internalID: 1316521177640826221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 52
+        width: 76
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbffc0ae333ed86b0800000000000000
+      internalID: -5292324174980907073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 28
+        width: 90
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d880576744a380800000000000000
+      internalID: -8960958849502095355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 173
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800095264669eb980800000000000000
+      internalID: -8521208087047503864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 57
+        width: 88
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82de00c51f9ec8f0800000000000000
+      internalID: -518301991335701876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1
+        width: 86
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc8a3f7bd6fa440800000000000000
+      internalID: 4949295152337832890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mystery of Nothing_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 53
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9dcd697e19bb890800000000000000
+      internalID: -7441193535445083662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mystery of Nothing_0: 2202849738775366960
+      Mystery of Nothing_1: -1848899978543168332
+      Mystery of Nothing_10: -5292324174980907073
+      Mystery of Nothing_11: -8960958849502095355
+      Mystery of Nothing_12: -8521208087047503864
+      Mystery of Nothing_13: -518301991335701876
+      Mystery of Nothing_14: 4949295152337832890
+      Mystery of Nothing_15: -7441193535445083662
+      Mystery of Nothing_2: 4468924607755408364
+      Mystery of Nothing_3: -5172129693164649553
+      Mystery of Nothing_4: -1520799422429888122
+      Mystery of Nothing_5: 8685399796747034429
+      Mystery of Nothing_6: -4573342769658927620
+      Mystery of Nothing_7: -3351284254656442916
+      Mystery of Nothing_8: -1562367140302633389
+      Mystery of Nothing_9: 1316521177640826221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

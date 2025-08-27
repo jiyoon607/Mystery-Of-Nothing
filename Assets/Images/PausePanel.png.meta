@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: eae80d240a484514a8b8db589f3a1f36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 55582143158522339
+    second: PausePanel_0
+  - first:
+      213: -249909444066739063
+    second: PausePanel_1
+  - first:
+      213: -1634690619997492401
+    second: PausePanel_2
+  - first:
+      213: -7190141904810602703
+    second: PausePanel_3
+  - first:
+      213: -3990354980454794156
+    second: PausePanel_4
+  - first:
+      213: 8707394961648678553
+    second: PausePanel_5
+  - first:
+      213: 2121056884728089170
+    second: PausePanel_6
+  - first:
+      213: 1233579974780250445
+    second: PausePanel_7
+  - first:
+      213: -3106343528415616789
+    second: PausePanel_8
+  - first:
+      213: 4267102245570573868
+    second: PausePanel_9
+  - first:
+      213: 5804476898955007845
+    second: PausePanel_10
+  - first:
+      213: -5636491706241989547
+    second: PausePanel_11
+  - first:
+      213: -8189380540248356966
+    second: PausePanel_12
+  - first:
+      213: 1391759351119654030
+    second: PausePanel_13
+  - first:
+      213: -5991885923781842428
+    second: PausePanel_14
+  - first:
+      213: -2247992582488163701
+    second: PausePanel_15
+  - first:
+      213: -5319597830034492540
+    second: PausePanel_16
+  - first:
+      213: 4304699967630825389
+    second: PausePanel_17
+  - first:
+      213: 5525612449558066531
+    second: PausePanel_18
+  - first:
+      213: -70139493524733546
+    second: PausePanel_19
+  - first:
+      213: -5719537874933825710
+    second: PausePanel_20
+  - first:
+      213: -7592447263902006370
+    second: PausePanel_21
+  - first:
+      213: -7879358255516716933
+    second: PausePanel_22
+  - first:
+      213: 6001161106771847012
+    second: PausePanel_23
+  - first:
+      213: 8772003984459321647
+    second: PausePanel_24
+  - first:
+      213: -8485340703970595676
+    second: PausePanel_25
+  - first:
+      213: -1850189650660857304
+    second: PausePanel_26
+  - first:
+      213: 8784063781844555039
+    second: PausePanel_27
+  - first:
+      213: 8824685815398418887
+    second: PausePanel_28
+  - first:
+      213: -4071345219765415830
+    second: PausePanel_29
+  - first:
+      213: 7929453161288167273
+    second: PausePanel_30
+  - first:
+      213: -3396611207659096726
+    second: PausePanel_31
+  - first:
+      213: 1023691257225782556
+    second: PausePanel_32
+  - first:
+      213: 1765693083488602734
+    second: PausePanel_33
+  - first:
+      213: 612148280652549282
+    second: PausePanel_34
+  - first:
+      213: 2497928973821377165
+    second: PausePanel_35
+  - first:
+      213: 4065971571568810037
+    second: PausePanel_36
+  - first:
+      213: -4695275421039525725
+    second: PausePanel_37
+  - first:
+      213: 6309816301661164091
+    second: PausePanel_38
+  - first:
+      213: 6633782851117637540
+    second: PausePanel_39
+  - first:
+      213: -4227774993510346238
+    second: PausePanel_40
+  - first:
+      213: -4984593002722457607
+    second: PausePanel_41
+  - first:
+      213: -3867395832695816737
+    second: PausePanel_42
+  - first:
+      213: 8109370752321152274
+    second: PausePanel_43
+  - first:
+      213: -4096741856453090632
+    second: PausePanel_44
+  - first:
+      213: 391543521111452790
+    second: PausePanel_45
+  - first:
+      213: 564995359295242135
+    second: PausePanel_46
+  - first:
+      213: -2771889990823301202
+    second: PausePanel_47
+  - first:
+      213: -4995577719240676871
+    second: PausePanel_48
+  - first:
+      213: -7019795823902370593
+    second: PausePanel_49
+  - first:
+      213: -1445470757537214949
+    second: PausePanel_50
+  - first:
+      213: -7639536466294733212
+    second: PausePanel_51
+  - first:
+      213: -6071035128699910553
+    second: PausePanel_52
+  - first:
+      213: 5336787464787117680
+    second: PausePanel_53
+  - first:
+      213: -8146534755014562144
+    second: PausePanel_54
+  - first:
+      213: -6516347504187528955
+    second: PausePanel_55
+  - first:
+      213: 4501920031096679303
+    second: PausePanel_56
+  - first:
+      213: -475615984850134391
+    second: PausePanel_57
+  - first:
+      213: 1430405354010295699
+    second: PausePanel_58
+  - first:
+      213: 2320040230019309563
+    second: PausePanel_59
+  - first:
+      213: -4906832821360013933
+    second: PausePanel_60
+  - first:
+      213: -4449556795654836227
+    second: PausePanel_61
+  - first:
+      213: 7219418375718634906
+    second: PausePanel_62
+  - first:
+      213: -3017246070321227972
+    second: PausePanel_63
+  - first:
+      213: 5449756147312755548
+    second: PausePanel_64
+  - first:
+      213: -2437457283212060665
+    second: PausePanel_65
+  - first:
+      213: -3358348483759565652
+    second: PausePanel_66
+  - first:
+      213: 1601725330663788461
+    second: PausePanel_67
+  - first:
+      213: -8949473410033233794
+    second: PausePanel_68
+  - first:
+      213: -6957183317472163119
+    second: PausePanel_69
+  - first:
+      213: -6594203107702943537
+    second: PausePanel_70
+  - first:
+      213: -8228806133017361216
+    second: PausePanel_71
+  - first:
+      213: 6156163933059786989
+    second: PausePanel_72
+  - first:
+      213: -8726016048192037462
+    second: PausePanel_73
+  - first:
+      213: 25201643791225566
+    second: PausePanel_74
+  - first:
+      213: 8068678247170774303
+    second: PausePanel_75
+  - first:
+      213: 3713315113152730832
+    second: PausePanel_76
+  - first:
+      213: -1895422056750341550
+    second: PausePanel_77
+  - first:
+      213: 4496161925392034679
+    second: PausePanel_78
+  - first:
+      213: 1045752463526898621
+    second: PausePanel_79
+  - first:
+      213: 5180371699105006100
+    second: PausePanel_80
+  - first:
+      213: 787373689326718881
+    second: PausePanel_81
+  - first:
+      213: 6990585707311062494
+    second: PausePanel_82
+  - first:
+      213: -2964799015336079073
+    second: PausePanel_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PausePanel_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 2130
+        height: 2332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e191da2aa775c000800000000000000
+      internalID: 55582143158522339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2270
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf2684fa4288cf0800000000000000
+      internalID: -249909444066739063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2234
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be265ca896059e0800000000000000
+      internalID: -1634690619997492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2014
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f0d17580c773c90800000000000000
+      internalID: -7190141904810602703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1991
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cf74e79496f98c0800000000000000
+      internalID: -3990354980454794156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1978
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99678187591e6d870800000000000000
+      internalID: 8707394961648678553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1758
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4d92bff18f6d10800000000000000
+      internalID: 2121056884728089170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49efc6837e8e1110800000000000000
+      internalID: 1233579974780250445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1722
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0247ed40d04e4d0800000000000000
+      internalID: -3106343528415616789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1502
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26718f52eac73b30800000000000000
+      internalID: 4267102245570573868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5679c257cf4ad8050800000000000000
+      internalID: 5804476898955007845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1466
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554c20618a827c1b0800000000000000
+      internalID: -5636491706241989547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1246
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970000b9c9795e80800000000000000
+      internalID: -8189380540248356966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca05881c5805310800000000000000
+      internalID: 1391759351119654030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1210
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae15aaf7b88dca0800000000000000
+      internalID: -5991885923781842428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 990
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a741718a68dc0e0800000000000000
+      internalID: -2247992582488163701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483fad045fdfc26b0800000000000000
+      internalID: -5319597830034492540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 954
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7554330dd5dbb30800000000000000
+      internalID: 4304699967630825389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36572663f3beeac40800000000000000
+      internalID: 5525612449558066531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918bb39080d60ff0800000000000000
+      internalID: -70139493524733546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 698
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3d2d2b9e10a0b0800000000000000
+      internalID: -5719537874933825710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 478
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930c33a07532a690800000000000000
+      internalID: -7592447263902006370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7072e9c965e6a290800000000000000
+      internalID: -7879358255516716933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 442
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a6092b38684350800000000000000
+      internalID: 6001161106771847012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f215206d52b6cb970800000000000000
+      internalID: 8772003984459321647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac6ba546930e3a80800000000000000
+      internalID: -8485340703970595676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 186
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6141c05ec256e0800000000000000
+      internalID: -1850189650660857304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151839387347e970800000000000000
+      internalID: 8784063781844555039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 52
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c940417ef4977a70800000000000000
+      internalID: 8824685815398418887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d5e1f71daf77c0800000000000000
+      internalID: -4071345219765415830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fedad53a31b0e60800000000000000
+      internalID: 7929453161288167273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a657e574a10dcd0d0800000000000000
+      internalID: -3396611207659096726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ad9256c1e43e00800000000000000
+      internalID: 1023691257225782556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac3bf1180018810800000000000000
+      internalID: 1765693083488602734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_34
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac49223e99ce7800800000000000000
+      internalID: 612148280652549282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a77c6ca2d6aa220800000000000000
+      internalID: 2497928973821377165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53812361a9b3d6830800000000000000
+      internalID: 4065971571568810037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0015691e707deb0800000000000000
+      internalID: -4695275421039525725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329b7ade78f09750800000000000000
+      internalID: 6309816301661164091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd1f51b5eef0c50800000000000000
+      internalID: 6633782851117637540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20259890b0de355c0800000000000000
+      internalID: -4227774993510346238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_41
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f784d2d21b23dab0800000000000000
+      internalID: -4984593002722457607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddf6520bff345ac0800000000000000
+      internalID: -3867395832695816737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2156b04ebb54a8070800000000000000
+      internalID: 8109370752321152274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a3adacf27527c0800000000000000
+      internalID: -4096741856453090632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_45
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c24f902ca0f6500800000000000000
+      internalID: 391543521111452790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_46
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f798a294447d700800000000000000
+      internalID: 564995359295242135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf248c4db44889d0800000000000000
+      internalID: -2771889990823301202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_48
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9adc438842caab0800000000000000
+      internalID: -4995577719240676871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_49
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4578004eca49e90800000000000000
+      internalID: -7019795823902370593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_50
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e87c32108a0fbe0800000000000000
+      internalID: -1445470757537214949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_51
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660cd55f0aeaf590800000000000000
+      internalID: -7639536466294733212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668ce657b95fbba0800000000000000
+      internalID: -6071035128699910553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_53
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076c4687ce3101a40800000000000000
+      internalID: 5336787464787117680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_54
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeabf07dc1b1fe80800000000000000
+      internalID: -8146534755014562144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_55
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50926e358784195a0800000000000000
+      internalID: -6516347504187528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_56
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78babb48a680a7e30800000000000000
+      internalID: 4501920031096679303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_57
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a928d18c54669f0800000000000000
+      internalID: -475615984850134391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_58
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39db9924712d9d310800000000000000
+      internalID: 1430405354010295699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_59
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff9aee0c40723020800000000000000
+      internalID: 2320040230019309563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_60
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dcb96eb8d67ebb0800000000000000
+      internalID: -4906832821360013933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_61
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff611b4bafff32c0800000000000000
+      internalID: -4449556795654836227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_62
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9503a933c6803460800000000000000
+      internalID: 7219418375718634906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_63
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375f826fa69026d0800000000000000
+      internalID: -3017246070321227972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_64
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530419875c61ab40800000000000000
+      internalID: 5449756147312755548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_65
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d4fed3896c2ed0800000000000000
+      internalID: -2437457283212060665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_66
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41a89e8dfb461d0800000000000000
+      internalID: -3358348483759565652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_67
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafc5f1b3b87a3610800000000000000
+      internalID: 1601725330663788461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_68
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705a2499551dc380800000000000000
+      internalID: -8949473410033233794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_69
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da4ccc22ae137f90800000000000000
+      internalID: -6957183317472163119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_70
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d69c063fac74a0800000000000000
+      internalID: -6594203107702943537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_71
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c1fb8b686dcd80800000000000000
+      internalID: -8228806133017361216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_72
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a919fa761f6550800000000000000
+      internalID: 6156163933059786989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_73
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd727f2a6f6e680800000000000000
+      internalID: -8726016048192037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_74
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29ee1f2c8895000800000000000000
+      internalID: 25201643791225566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_75
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151989bd14b9ff60800000000000000
+      internalID: 8068678247170774303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_76
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6de82eb68588330800000000000000
+      internalID: 3713315113152730832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_77
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252a4f78eab12b5e0800000000000000
+      internalID: -1895422056750341550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_78
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be0af0373956e30800000000000000
+      internalID: 4496161925392034679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_79
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbba28f2352438e00800000000000000
+      internalID: 1045752463526898621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_80
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41204a11d9064e740800000000000000
+      internalID: 5180371699105006100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_81
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afcec1e2305dea00800000000000000
+      internalID: 787373689326718881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_82
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddd230c9ac830160800000000000000
+      internalID: 6990585707311062494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausePanel_83
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f111774f00bead6d0800000000000000
+      internalID: -2964799015336079073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PausePanel_0: 55582143158522339
+      PausePanel_1: -249909444066739063
+      PausePanel_10: 5804476898955007845
+      PausePanel_11: -5636491706241989547
+      PausePanel_12: -8189380540248356966
+      PausePanel_13: 1391759351119654030
+      PausePanel_14: -5991885923781842428
+      PausePanel_15: -2247992582488163701
+      PausePanel_16: -5319597830034492540
+      PausePanel_17: 4304699967630825389
+      PausePanel_18: 5525612449558066531
+      PausePanel_19: -70139493524733546
+      PausePanel_2: -1634690619997492401
+      PausePanel_20: -5719537874933825710
+      PausePanel_21: -7592447263902006370
+      PausePanel_22: -7879358255516716933
+      PausePanel_23: 6001161106771847012
+      PausePanel_24: 8772003984459321647
+      PausePanel_25: -8485340703970595676
+      PausePanel_26: -1850189650660857304
+      PausePanel_27: 8784063781844555039
+      PausePanel_28: 8824685815398418887
+      PausePanel_29: -4071345219765415830
+      PausePanel_3: -7190141904810602703
+      PausePanel_30: 7929453161288167273
+      PausePanel_31: -3396611207659096726
+      PausePanel_32: 1023691257225782556
+      PausePanel_33: 1765693083488602734
+      PausePanel_34: 612148280652549282
+      PausePanel_35: 2497928973821377165
+      PausePanel_36: 4065971571568810037
+      PausePanel_37: -4695275421039525725
+      PausePanel_38: 6309816301661164091
+      PausePanel_39: 6633782851117637540
+      PausePanel_4: -3990354980454794156
+      PausePanel_40: -4227774993510346238
+      PausePanel_41: -4984593002722457607
+      PausePanel_42: -3867395832695816737
+      PausePanel_43: 8109370752321152274
+      PausePanel_44: -4096741856453090632
+      PausePanel_45: 391543521111452790
+      PausePanel_46: 564995359295242135
+      PausePanel_47: -2771889990823301202
+      PausePanel_48: -4995577719240676871
+      PausePanel_49: -7019795823902370593
+      PausePanel_5: 8707394961648678553
+      PausePanel_50: -1445470757537214949
+      PausePanel_51: -7639536466294733212
+      PausePanel_52: -6071035128699910553
+      PausePanel_53: 5336787464787117680
+      PausePanel_54: -8146534755014562144
+      PausePanel_55: -6516347504187528955
+      PausePanel_56: 4501920031096679303
+      PausePanel_57: -475615984850134391
+      PausePanel_58: 1430405354010295699
+      PausePanel_59: 2320040230019309563
+      PausePanel_6: 2121056884728089170
+      PausePanel_60: -4906832821360013933
+      PausePanel_61: -4449556795654836227
+      PausePanel_62: 7219418375718634906
+      PausePanel_63: -3017246070321227972
+      PausePanel_64: 5449756147312755548
+      PausePanel_65: -2437457283212060665
+      PausePanel_66: -3358348483759565652
+      PausePanel_67: 1601725330663788461
+      PausePanel_68: -8949473410033233794
+      PausePanel_69: -6957183317472163119
+      PausePanel_7: 1233579974780250445
+      PausePanel_70: -6594203107702943537
+      PausePanel_71: -8228806133017361216
+      PausePanel_72: 6156163933059786989
+      PausePanel_73: -8726016048192037462
+      PausePanel_74: 25201643791225566
+      PausePanel_75: 8068678247170774303
+      PausePanel_76: 3713315113152730832
+      PausePanel_77: -1895422056750341550
+      PausePanel_78: 4496161925392034679
+      PausePanel_79: 1045752463526898621
+      PausePanel_8: -3106343528415616789
+      PausePanel_80: 5180371699105006100
+      PausePanel_81: 787373689326718881
+      PausePanel_82: 6990585707311062494
+      PausePanel_83: -2964799015336079073
+      PausePanel_9: 4267102245570573868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
